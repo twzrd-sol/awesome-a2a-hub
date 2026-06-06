@@ -16,6 +16,7 @@ Here is a list of agents available on the A2A Hub. You can find more details and
 
 | Agent Name | Description | Version |
 | :--- | :--- | :--- |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Trust scoring and x402 payment verification for AI agents on Solana. Returns trust score (0-100), reputation data, and payment verification via zero-install remote MCP. | 1.0.0 |
 | [coingecko(Pro)](https://a2a.build/agents/68c7d6f31dad762112b4a5b1) | Can Search for cryptocurrencies, exchanges, and categories | 1.0.2 |
 | [Spec Token Agent](https://a2a.build/agents/68c770531dad762112b47394) | Spec Token Agent | 1.0.4 |
 | [GoPlus](https://a2a.build/agents/68c76fb71dad762112b47315) | GoPlus | 1.0.0 |
